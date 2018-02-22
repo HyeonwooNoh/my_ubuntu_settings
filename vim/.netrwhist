@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/walter/task/SSGAN-tensorflow'
+let g:netrw_dirhist_2='/home/walter/task/Generative-Latent-Optimization-Tensorflow'
+let g:netrw_dirhist_3='/home/walter/task'
+let g:netrw_dirhist_4='/home/walter/task/Generative-Latent-Optimization-Tensorflow'
+let g:netrw_dirhist_5='/home/hyeonwoonoh/Projects/pixel2program/srcs/Pixel2Program/karel/interpreter'
+let g:netrw_dirhist_6='/home/hyeonwoonoh/Projects/pixel2program/srcs/Pixel2Program/train_dir'
+let g:netrw_dirhist_7='/home/hyeonwoonoh/Projects/pixel2program/srcs/Pixel2Program/karel/dsl'
+let g:netrw_dirhist_8='/home/hyeonwoonoh/Projects/pixel2program/srcs/Pixel2Program/train_dir'
+let g:netrw_dirhist_9='/home/hyeonwoonoh/Projects/pixel2program/srcs/Pixel2Program/vizdoom_world/test_dataset'

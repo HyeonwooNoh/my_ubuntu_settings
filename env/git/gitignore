@@ -1,0 +1,23 @@
+# Global gitignore.
+
+# Vim
+.*.s[a-w][a-z]
+Session.vim
+.netrwhist
+
+# Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE stuffs
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.ipynb_checkpoints/
+
+# Etc
+npm-debug.log
