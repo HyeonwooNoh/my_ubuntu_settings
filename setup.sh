@@ -17,5 +17,7 @@ sudo apt-get -y install tmux
 sudo apt-get -y install zsh
 sudo apt-get -y install git-core
 wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+rm -rf ~/.zshrc
+cp zshrc ~/.zshrc
 chsh -s `which zsh`
-sudo shutdown -r 0
+# sudo shutdown -r 0
